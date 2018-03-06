@@ -1,5 +1,5 @@
 set number
-colorscheme blackdust
+colorscheme zenburn
 
 :set guioptions-=m  "remove menu bar
 
