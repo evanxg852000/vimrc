@@ -1,5 +1,5 @@
 set number
-colorscheme deus
+colorscheme blackdust
 
 :set guioptions-=m  "remove menu bar
 
