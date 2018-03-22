@@ -1,6 +1,10 @@
 set number
-set foldmethod=indent
 colorscheme zenburn
+
+set foldmethod=indent   
+set foldnestmax=10
+set nofoldenable
+set foldlevel=2
 
 :set guioptions-=m  "remove menu bar
 
