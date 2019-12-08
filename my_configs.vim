@@ -10,11 +10,11 @@ set foldlevel=2
 
 if has("gui_running")
   if has("gui_gtk2")
-    set guifont=Inconsolata\ 13
+    set guifont=Inconsolata\ 16
   elseif has("gui_macvim")
-    set guifont=Menlo\ Regular:h15
+    set guifont=Menlo\ Regular:h20
   elseif has("gui_win32")
-    set guifont=Consolas:h13:cANSI
+    set guifont=Consolas:h16:cANSI
   endif
 endif
 
